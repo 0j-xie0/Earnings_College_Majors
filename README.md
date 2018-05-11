@@ -23,3 +23,9 @@
 ### •Generated histograms to explore distributions of sample size, median, unemployment rate, gender, etc.
 ### •Continued further visualizations using scatter matrix plots and bar plots on the above-mentioned features.
 
+# Observeations
+#### •Students in more popular majors do NOT make more money.
+#### •From the plot Median vs Share Women (percentage women) students who majored in subjects that were majority female did NOT make more money. The plot Unemployment Rate vs Share Women also coroborates this showing that unemployment rates are higher in fields where there are more women.
+#### •There is a positive correlation between the number of full-time employees and median salary. Fields with full-time employees have higher median salaries.
+#### •From the ShareWomen (percentage women) histogram we can see that it is approximately 8% of majors are predominantly male and 8% predomninantly female.
+#### •From the Median histogram the most common median salary is approximately $75,000.
